@@ -110,6 +110,7 @@
 | [winogrande](winogrande/README.md) | A large-scale dataset for coreference resolution, inspired by the Winograd Schema Challenge. | English |
 | [wmdp](wmdp/README.md) | A benchmark with the objective of minimizing performance, based on potentially-sensitive multiple-choice knowledge questions. | English |
 | [wmt2016](wmt2016/README.md) | Tasks from the WMT 2016 shared task, focusing on translation between multiple languages. | English, Czech, German, Finnish, Russian, Romanian, Turkish |
+| [legaval](legaval/README.md) | Evaluation for legal language understanding, reasoning and general knowledge. | English |
 | [wsc273](wsc273/README.md) | The Winograd Schema Challenge, a test of commonsense reasoning and coreference resolution. | English |
 | [xcopa](xcopa/README.md) | Cross-lingual Choice of Plausible Alternatives, testing reasoning in multiple languages. | Estonian, Haitian, Indonesian, Italian, Quechua, Swahili, Tamil, Thai, Turkish, Vietnamese, Chinese |
 | [xnli](xnli/README.md) | Cross-Lingual Natural Language Inference to test understanding across different languages. | Arabic, Bulgarian, German, Greekm English, Spanish, French, Hindi, Russian, Swahili, Thai, Turkish, Urdu, Vietnamese, Chinese |
